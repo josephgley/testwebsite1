@@ -1,0 +1,7 @@
+
+1.Login to Windows Server as an Admin
+2. Go to Active Directory Users and Computers by ri-clicking on the start menu
+3. Ri-click on Users under your Domain and go to "New" and select "User"
+4. Fill out all information in the "New Object- User" and click Next
+5. Set a Password and Password options and click Next
+6. Click Finish to finish the creation of the user account.
